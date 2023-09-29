@@ -1,2 +1,2 @@
 # javascriptExcersices
-In this repository, I pus javascript exercises files.
+In this repository, I put javascript exercises files.
